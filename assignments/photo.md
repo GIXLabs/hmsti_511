@@ -21,3 +21,5 @@ Submit these photos here on Canvas, as well as describe what combination you wil
 | 1 | Clarity of the best sketch picture |
 
 # Resources
+[Taking photo with Windows webcam](https://support.microsoft.com/en-us/windows/how-to-use-the-windows-camera-app-ea40b69f-be6a-840e-9c8c-1fd6eea97c22)
+[Taking photo with Apple webcam](https://support.apple.com/guide/photo-booth/take-a-photo-or-record-a-video-pbhlp3714a9d/mac)
