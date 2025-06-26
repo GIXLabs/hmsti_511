@@ -16,7 +16,7 @@ By the end of this week you will be able to do the following:
 | Due Date	| Due Time	| Title (linked in final) |	Requires Class Participation |
 | --- | --- | --- | --- |
 | Monday |	11:00 PM | [Photo Exercise (2D and 3D)](/assignments/photo.md) |  |	
-| Tuesday |	11:00 PM | Hand Sketch Critique Reflection | Yes |
+| Tuesday |	11:00 PM | [Hand Sketch Critique Reflection](/assignments/handsketch_critique_1.md) | Yes |
 | Tuesday |	11:00 PM |	1st Product Sketch |  |	
 | Wednesday | 11:00 PM | 2nd Product Sketch |  |
 | Thursday | 11:00 PM |	3rd Product Sketch |  |	
