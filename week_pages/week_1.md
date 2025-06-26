@@ -17,10 +17,10 @@ By the end of this week you will be able to do the following:
 | --- | --- | --- | --- |
 | Monday |	11:00 PM | [Photo Exercise (2D and 3D)](/assignments/photo.md) |  |	
 | Tuesday |	11:00 PM | [Hand Sketch Critique Reflection](/assignments/handsketch_critique_1.md) | Yes |
-| Tuesday |	11:00 PM |	[1st Product Sketch](/assinments/prod_sketch.md) |  |	
-| Wednesday | 11:00 PM | [2nd Product Sketch](/assinments/prod_sketch.md) |  |
-| Thursday | 11:00 PM |	[3rd Product Sketch](/assinments/prod_sketch.md) |  |	
-| Friday |	11:00 PM |	[4th Product Sketch](/assinments/prod_sketch.md) |  |	
+| Tuesday |	11:00 PM |	[1st Product Sketch](/assignments/prod_sketch.md) |  |	
+| Wednesday | 11:00 PM | [2nd Product Sketch](/assignments/prod_sketch.md) |  |
+| Thursday | 11:00 PM |	[3rd Product Sketch](/assignments/prod_sketch.md) |  |	
+| Friday |	11:00 PM |	[4th Product Sketch](/assignments/prod_sketch.md) |  |	
 | Friday |	11:00 PM |	Measurement Exercise |  |	
 | Saturday | 11:00 PM |	10-Minute Prototype Reflection | Yes |
 | Monday (week 2) |	11:00 PM |	Mouse Documentation | Yes |
