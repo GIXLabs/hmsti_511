@@ -24,7 +24,6 @@ Note: The intention is that you spend around 15 minutes on each sketch, somethin
 Each of these sketches will be due on consecutive days. This assignment write-up will actually be 4 assignments.
 
 # Resources
-[Find some sketching articles or videos]()
-[Orthographic Projections]()
+[Orthographic projections]()
 [Decomposing objects into simple solids]()
 [Perspective and vanishing points]()
