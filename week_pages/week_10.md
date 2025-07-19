@@ -20,3 +20,4 @@ None
 ## Media to Produce
 None
 
+[Instructional Guide](/inst_guides/week_10.md)

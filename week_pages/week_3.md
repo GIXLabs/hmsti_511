@@ -24,3 +24,5 @@ Bring mouse enclosure and, screwdriver.
 
 ## Media to Produce
 Fusion video modeling joints in place
+
+[Instructional Guide](/inst_guides/week_3.md)
