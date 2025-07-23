@@ -8,7 +8,7 @@
 
     [Engineering drawing](assets/wedge_drawing.pdf)
 
-    Student submission: link to Fusion file.
+    Student submission: screenshot
 
 1. Draft
     ![Wedge image](assets/wedge.png)
@@ -19,7 +19,7 @@
 
     [Engineering drawing](assets/wedge_drawing.pdf)
 
-    Student submission: link to Fusion file.
+    Student submission: screenshot
 
 1. Chamfer
     ![Wedge image](assets/wedge.png)
@@ -30,7 +30,7 @@
 
     [Engineering drawing](assets/wedge_drawing.pdf)
 
-    Student submission: link to Fusion file.
+    Student submission: screenshot
 
 1. Multiple Extrudes
 
@@ -42,7 +42,7 @@
 
     [Engineering drawing](assets/multiple_extrudes_drawing.pdf)
 
-    Student submission: link to Fusion file.
+    Student submission: screenshot
 
 1. Revolve
 
@@ -52,7 +52,7 @@
 
     [Engineering drawing](assets/multiple_extrudes_drawing.pdf)
 
-    Student submission: link to Fusion file.
+    Student submission: screenshot
 
 1. 3 Sketches
 
@@ -62,7 +62,7 @@
 
     [Engineering drawing](assets/three_sketch_wedge.pdf)
 
-    Student submission: link to Fusion file.
+    Student submission: screenshot
 
 1. 1 Sketch
 
@@ -71,9 +71,9 @@
     3 Sketches is really too many, can you do it in 1? I likely wouldn't do this for a model I cared about, but it is a good exercise to get you thinking about how many ways you can make a shape.
 
     Hint: You will need to use the Revolve feature and explore some of the other options in the Extrude dialog box.
-    
+
     [Engineering drawing](assets/three_sketch_wedge.pdf)
 
-    Student submission: link to Fusion file.
+    Student submission: screenshot
 
 # Resources
