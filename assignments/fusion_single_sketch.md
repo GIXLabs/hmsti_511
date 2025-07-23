@@ -71,6 +71,7 @@
     3 Sketches is really too many, can you do it in 1? I likely wouldn't do this for a model I cared about, but it is a good exercise to get you thinking about how many ways you can make a shape.
 
     Hint: You will need to use the Revolve feature and explore some of the other options in the Extrude dialog box.
+    
     [Engineering drawing](assets/three_sketch_wedge.pdf)
 
     Student submission: link to Fusion file.
