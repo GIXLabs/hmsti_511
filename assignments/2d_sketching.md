@@ -15,7 +15,7 @@ In this activity, we'll be learning about how to use the Sketch environment in F
     ![Image of Sketch ribbon](assets/sketch_ribbon.svg)
 
 1. Line tool: Let's make a simple rectangle. There's a tool for making rectangles, but let's start by using the line tool instead.
-    1. Select the line tool from the ribbon or press L.
+    1. Select the line tool from the ribbon or press L. Note: Fusion gives you a description of what every tool does if you hover over it with your mouse.
 
     ![Image of line tool](assets/line_tool.svg)
 
