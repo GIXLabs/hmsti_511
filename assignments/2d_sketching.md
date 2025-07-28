@@ -1,5 +1,5 @@
 # Overview
-In this activity, we'll be learning about how to use the Sketch environment in Fusion.
+In this activity, we'll be learning about how to use the Sketch environment in Fusion. Many parametric CAD programs (Fusion, SolidWorks, OnShape, and others) create 3D shapes by first starting with a 2D Sketch, then applying a 3D operation to the elements of the sketch. For example, Extruding that sketch creates shapes like prisms or cylinders, Revolves rotate the Sketch around an axis to create shapes like cups, and Lofts connect several Sketches to create more sculptural shapes.
 
 1. Creating a new sketch.
     1. Click on the Create Sketch button on the left side of the ribbon.
@@ -43,9 +43,12 @@ In this activity, we'll be learning about how to use the Sketch environment in F
     1. Dimensioning between 2 components, like the space between two lines.
 
 1. Challenge: Replicate this shape using lines, arcs, constraints, and dimensions. Add you name.
+
+    ![Image of shape](assets/dimension_quiz.svg)
+
     1. Submit screenshot.
 
-1. Exiting Sketch environment
+1. Exiting Sketch environment: When you are done in the Sketch environment, click the "Finish Sketch" button in the top right of the ribbon.
 
 1. Exporting to laser
     1. Download and install the Shaper Origin tool. [Link here](https://apps.autodesk.com/FUSION/en/Detail/Index?id=3662665235866169729)
