@@ -13,7 +13,7 @@ By the end of this week you will be able to do the following:
 | Due Date | Due Time |	Title (linked in final)	| Requires Class Participation |
 | --- | --- | --- | --- |
 | Tuesday (week 2) | 11:00 PM |	Documentation Critique Reflection |	Yes |
-| Friday | 11:00 PM | Sketch Environment in Fusion |  |	
+| Friday | 11:00 PM | [Sketch Environment in Fusion](/assignments/2d_sketching.md) |  |	
 | Friday | 11:00 PM | 4 Product Sketches |  |	
 | Monday (week 3) |	11:00 PM | Laser Cut Mouse |  |	
 
