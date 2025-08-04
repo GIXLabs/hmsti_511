@@ -1,8 +1,8 @@
 # Tuesday Synchronous Remote (90 minutes)
-- Lecture about solving problems at home
-- Activity assembling joints
-- Joint group discussion
+- 20 minutes: Lecture about solving problems at home
+- 20 minutes: Activity assembling joints
+- 10 minutes: Joint group discussion
 
 
 # Saturday In-Person (3 hours)
-- Mouse critiques
+- 60 minutes: Mouse critiques (follow-up assignment due later that evening).

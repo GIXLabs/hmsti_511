@@ -8,6 +8,7 @@ For example, Extruding that sketch creates shapes like prisms or cylinders, Revo
 Throughout this assignment, you may need to Google how to do certain operations in Fusion or play around with different buttons within Fusion to see how they work.
 
 1. Layout of Fusion
+    1. Open Fusion and start a new project.
     1. There are three major parts of the Fusion interface you'll need to be familiar with:
         1. Ribbon: where all tools can be found.
         1. Browser: where the elements of your design (like Sketches and Bodies) are stored.
@@ -34,14 +35,15 @@ Throughout this assignment, you may need to Google how to do certain operations 
     1. Select the line tool from the ribbon or press L. Note: Fusion gives you a description of what every tool does if you hover over it with your mouse.
 
         ![Image of line tool](assets/line_tool.svg)
+    1. Once you have selected the line tool, head to the next page for how to use it.
 
-    1. Click the origin as your starting point (almost always a good choice).
+1. Line tool and Accidental Constraints: Click the origin as your starting point (almost always a good choice).
     1. Click where you want the line to end, but be careful not to accidentally apply a constraint.
         1. We'll be using constraints liberally shortly, but for now we don't want to accidentally apply one, which looks like one of these blue icons showing up. You'll also notice the line will snap to a position, which you don't want at this stage.
 
         ![Image of accidental constraint](assets/accidental_constraint.svg)
     
-    1. Click a few more times to create the 4 lines that will eventually become a rectangle, ending back at the origin.
+    1. Click a few more times to create the 4 lines that will eventually become a rectangle, ending back at the origin. In order to be a rectangle, all of the angles must be 90 degrees (there are several ways to do this). Please also align your rectangles sides with the axes (x and y) and make a corner coincident with the origin.
 
         ![Image of 4 lines](assets/proto_rectangle.svg)
     
@@ -51,7 +53,7 @@ Throughout this assignment, you may need to Google how to do certain operations 
         ![Image of constraints and definitions](assets/constraints.svg)
 
     1. Quiz on constraints
-        Consider using Fusion's tool tips (hover over the icon) to help you with this quiz.
+        Please match the following with their descriptions. Consider using Fusion's tool tips (hover over the icon for a long time) to help you with this quiz.
 
         ![Quiz on constraints](assets/constraint_quiz.svg)
 
@@ -63,17 +65,20 @@ Throughout this assignment, you may need to Google how to do certain operations 
 
     1. Submit a screenshot here.
 
-1. Text: Text isn't terribly useful, but it does help us know whose work we're looking at. Select the text tool from the ribbon and add your name somewhere near the rectangle.
+1. Text: Text isn't terribly useful, but it does help us know whose work we're looking at. Select the Text tool from the Create menu on the ribbon and add your name somewhere near the rectangle.
 
     1. To use the Text tool, you'll need to define the two points of the bounding box (aka click twice in different places).
 
-1. Dimensions: These are the other way you can define 2D geometry.
-    1. Dimensioning a single piece of geometry, such as the length of a line.
-    1. Dimensioning between 2 components, like the space between two lines.
+1. Dimensions: Dimensions are the other ways you can define 2D geometry.
+    1. The Sketch Dimension tool is under the Create bar on the Ribbon.
+        1. Dimensioning a single piece of geometry, such as the length of a line.
+        1. Dimensioning between 2 components, like the space between two lines.
 
-1. Challenge: Replicate this shape using lines, arcs, constraints, and dimensions. Add you name.
+1. Challenge: Replicate this shape using lines, arcs, constraints, and the Dimension tool (dimensions are in millimeters). Add your name.
 
     ![Image of shape](assets/dimension_quiz.svg)
+
+    1. Hint: you can start with very rough and clearly wrong lengths and angles, then use dimensions and constraints to turn them into the correct size and shape. This shape can be made with 4 line and one 3-point arc.
 
     1. Submit screenshot.
 
