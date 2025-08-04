@@ -1,12 +1,15 @@
 # Play-by-Play
 ## Synchronous remote (Tuesday): 90 minutes
-- 10 minutes: Introduce class policies and content overview
+- 5 minutes: Small group discussion of which photo best for you (how did you take it?)
+
 - 5 minutes: Lecture about importance of low fidelity prototyping
 - 5 minutes: Introduce low fidelity activity
 
 - 10 minutes: Each student sketches a product
 - 5 minutes: Give a few tips for critiquing effectively
 - 10 minutes: Students pair up and critique each other's sketches
+
+- 10 minutes: Introduce class policies and content overview
 
 - 10 minutes: Each student makes a product with aluminum foil
 - 10 minutes: Students pair up and critique each other's sculptures
