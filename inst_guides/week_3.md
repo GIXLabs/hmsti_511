@@ -5,7 +5,7 @@
 - 15 minute: Lecture introducing 3D printing
     - SLA and FDM
     - How they work and limitations
-
+- 15 minutes: Will it print? activity
 
 # Saturday In-Person (3 hours)
 - 5 minutes: Critique refresher
