@@ -1,7 +1,7 @@
 # Tuesday Synchronous Remote (90 minutes)
 - 20 minutes: Lecture about solving problems at home
 - 20 minutes: Activity assembling joints
-- 10 minutes: Joint group discussion
+- 10 minutes: Joint group discussion (which joint was the easiest to assemble, which hardest, which strongest, etc?)
 - 15 minute: Lecture introducing 3D printing
     - SLA and FDM
     - How they work and limitations
