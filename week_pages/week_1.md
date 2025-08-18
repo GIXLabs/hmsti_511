@@ -21,7 +21,7 @@ By the end of this week you will be able to do the following:
 | Wednesday | 11:00 PM | [2nd Product Sketch](/assignments/prod_sketch.md) |  |
 | Thursday | 11:00 PM |	[3rd Product Sketch](/assignments/prod_sketch.md) |  |	
 | Friday |	11:00 PM |	[4th Product Sketch](/assignments/prod_sketch.md) |  |	
-| Friday |	11:00 PM |	Measurement Exercise |  |	
+| Friday |	11:00 PM |	[Measurement Exercise](/assignments/measurement.md) |  |	
 | Saturday | 11:00 PM |	10-Minute Prototype Reflection | Yes |
 | Monday (week 2) |	11:00 PM |	Mouse Documentation | Yes |
 
