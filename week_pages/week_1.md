@@ -30,7 +30,6 @@ Bring sketchbook and a way to quickly capture sketches.
 ## Saturday Class Prep
 Bring calipers and screwdriver.
 ## Media to Produce
-Sketching techniques video
-Measurement video (working with calipers)
+None
 
 [Instructional Guide](/inst_guides/week_1.md)
