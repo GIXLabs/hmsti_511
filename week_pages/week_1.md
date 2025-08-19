@@ -22,8 +22,8 @@ By the end of this week you will be able to do the following:
 | Thursday | 11:00 PM |	[3rd Product Sketch](/assignments/prod_sketch.md) |  |	
 | Friday |	11:00 PM |	[4th Product Sketch](/assignments/prod_sketch.md) |  |	
 | Friday |	11:00 PM |	[Measurement Exercise](/assignments/measurement.md) |  |	
-| Saturday | 11:00 PM |	10-Minute Prototype Reflection | Yes |
-| Monday (week 2) |	11:00 PM |	Mouse Documentation | Yes |
+| Saturday | 11:00 PM |	[10-Minute Prototype Reflection](/assignments/10_min_proto.md) | Yes |
+| Monday (week 2) |	11:00 PM |	[Mouse Documentation](/assignments/mouse_doc.md) | Yes |
 
 ## Tuesday Class Prep
 Bring sketchbook and a way to quickly capture sketches.
