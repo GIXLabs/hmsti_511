@@ -82,3 +82,14 @@ Windows doesn't distinguish between different mouses, so this is a little toughe
     - No, but they should be related. Part of prototyping is learning from each iteration, so we expect your design to evolve as you progress through iterations. If you decide you don't like any of your ideas after some iterations, you should sketch out new ideas that you would like to try, then fabricate them. These would also be good things to put in your notes of each iteration in your process pdf.
 - Does my device have to work during critiques?
     - No, getting the device to function is optional, but it should be theoretically possible. A button that just gives you free cash isn't feasible, but one that types in your password for you is.
+
+# Rubric
+| Points | Requirement |
+| --- | --- |
+| 1 | Description of concept |
+| 3 | 10+ Hand sketches |
+| 1 | Size and shape prototype (hand crafted) |
+| 1 | PCB dimensions prototype (lasercut) |
+| 1 | Press fit joint prototype (laser cut) |
+| 2 | Medium fidelity finished prototype (laser cut) |
+| 1.5 | Execution Quality |

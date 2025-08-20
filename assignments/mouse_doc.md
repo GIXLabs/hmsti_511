@@ -22,7 +22,7 @@ Try not to re-invent the wheel. The goal of this assignment is to become familia
         - Either name each part or guess at its function.
         - Include explosion lines showing how the parts go together
         - You may use whatever software you would like to create this image (Figma, Inkscape, Illustrator, PowerPoint, MS Paint, etc).
-        - Must use the template (SVG here Download SVG hereand PDF here).
+        - Must use the template ([SVG here](assets/mouse_doc/diagram_template.svg) and [PDF here](assets/mouse_doc/diagram_template.pdf)).
     - Bill of Materials (BOM)
         - Table listing all of the parts
         - A guess at what manufacturing process made them.
@@ -42,12 +42,12 @@ Submit this as a single .pdf file (<10 MB). All Deadlines are in Pacific Time (G
 - Does the Fusion link need to be in the PDF/diagram?
     - We have just changed this, please upload a screenshot of your fully constrained Sketch on Canvas as a separate file from your PDF.
 
-# Further Resources
+# Resources
 We recommend that you use Inkscape to produce the diagram unless you are very familiar with Adobe Illustrator (and have a license to use Illustrator). Inkscape is free. 
 
-If you haven't already, we strongly recommend you work through these tutorialsLinks to an external site.. The techniques described in these tutorials will be used for every 511 assignment.
+If you haven't already, we strongly recommend you work through [these tutorials](https://gixlabs.github.io/how_to/inkscape.html). The techniques described in these tutorials will be used for every 511 assignment.
 
-This is also a great short videoLinks to an external site. on finding parts of your geometry that aren't fully constrained if you're having a hard time getting the lock icon to show up.
+This is also a great [short video](https://www.youtube.com/watch?v=matqB8nGzQI) on finding parts of your geometry that aren't fully constrained if you're having a hard time getting the lock icon to show up.
 
 # Rubric
 | Points | Requirement |
