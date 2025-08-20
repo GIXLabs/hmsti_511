@@ -1,5 +1,5 @@
 # Overview
-One can't develop new products without first understanding those that already exist. The goal of this brief is to become familiar with commonly used mass manufacturing and assembly techniques for small consumer electronics containing sensors and microcontrollers. You will explore and investigate by disassembling and documenting a product we will provide you. You will also practice handwork skills and further develop proficiency in working with small components and tools, which are important for product prototyping. You will document your analysis by creating an annotated teardown drawing in this assignment.
+Try not to re-invent the wheel. The goal of this assignment is to become familiar with commonly used mass manufacturing and assembly techniques for small consumer electronics containing sensors and microcontrollers. You will investigate by disassembling and documenting a computer mouse provided by us. You will also practice handwork skills and further develop proficiency in working with small components and tools, which are important for product prototyping. You will document your analysis by creating an annotated teardown drawing in this assignment.
 
 # Learning Objectives
 - Learn that everyday objects can teach you a lot about design.

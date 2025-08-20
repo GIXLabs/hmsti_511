@@ -12,18 +12,17 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time |	Title (linked in final)	| Requires Class Participation |
 | --- | --- | --- | --- |
-| Tuesday (week 2) | 11:00 PM |	Documentation Critique Reflection |	Yes |
+| Tuesday (week 2) | 11:00 PM |	[Documentation Critique Reflection](/assignments/critique_reflection.md) |	Yes |
 | Friday | 11:00 PM | [Sketch Environment in Fusion](/assignments/2d_sketching.md) |  |	
 | Friday | 11:00 PM | 4 Product Sketches |  |	
-| Monday (week 3) |	11:00 PM | Laser Cut Mouse |  |	
+| Monday (week 3) |	11:00 PM | [Laser Cut Mouse](/assignments/mouse_enclosure.md) |  |	
 
 ## Tuesday Class Prep
 - Bring mouse documentation from last week.
 - Bring computer with Fusion installed.
 
 ## Media to Produce
-- Working in Sketch environment in Fusion
-- All about Extrudes video
+- All about Extrudes tutorial
 - About the timeline 
 
 [Instructional Guide](/inst_guides/week_2.md)
