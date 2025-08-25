@@ -17,7 +17,7 @@ Try not to re-invent the wheel. The goal of this assignment is to become familia
 - Photos should be clear enough that blurriness is not noticeable.
 
 # Deliverables
-- Single PDF (<10 mB) submitted on Canvas
+- Single PDF (<10 mB) submitted on Canvas containing the following two elements:
     - Labeled deconstructed mouse image using template.
         - Either name each part or guess at its function.
         - Include explosion lines showing how the parts go together
@@ -29,8 +29,7 @@ Try not to re-invent the wheel. The goal of this assignment is to become familia
         - A guess at the material
         - Their quantities (if applicable)
     - A screenshot of your fully constrained Fusion 360 Sketch. All lines should be black and the region filled in with a light blue color. 
-
-Submit this as a single .pdf file (<10 MB). All Deadlines are in Pacific Time (GMT -7).
+    - Submit both of these (PDF and screenshot) on Canvas before the deadline.
 
 # Frequently Asked Questions
 - Do the items have to be the same scale in the explosion diagram?
@@ -39,8 +38,6 @@ Submit this as a single .pdf file (<10 MB). All Deadlines are in Pacific Time (G
     - No, just the board outline, with fillets converted to straight edges or a best guess. Interior cutouts aren't required, but dimensioning the holes may be helpful for mounting the PCB in a future assignment.
 - Is this Sketch what you meant in Fusion?
     - If the lines are all black and there may a little lock icon on the Sketch in the Browser (left-hand side, may need to expand that category), then it is fully constrained. Since Fusion certainly has quirks and bugs, we only require that the lines all be black and the area bounded by them be filled in with a light blue color (lock icon not required). As long as it also matches the outer border of your PCB, that's all you need.
-- Does the Fusion link need to be in the PDF/diagram?
-    - We have just changed this, please upload a screenshot of your fully constrained Sketch on Canvas as a separate file from your PDF.
 
 # Resources
 We recommend that you use Inkscape to produce the diagram unless you are very familiar with Adobe Illustrator (and have a license to use Illustrator). Inkscape is free. 
