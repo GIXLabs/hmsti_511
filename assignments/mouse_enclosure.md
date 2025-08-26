@@ -1,24 +1,26 @@
+![Prototype of first mouse](assets/mouse_recon/mouse_prototype.svg)
+
 # Overview
 You will be repurposing the PCB (printed circuit board) from the mouse you analyzed last week in Assignment 1.1. To do this, you will use sheet materials to create a new enclosure for the PCB, allowing for one of the existing PCB buttons to be pressed. This button can be reprogrammed to trigger one of many shortcuts on your computer. You should have a use case in mind for your repurposed mouse and it shouldn't just be to act like a normal mouse in a new enclosure. For example, it could be meant to be a mute button pedal for Zoom meetings, a shuffle button for a playlist, or any other combination of input and application. Ideally, your design will enhance the use case you have in mind, rather than just being a button.
 
 # Examples
 
 Here is some work completed during a previous class. The project was slightly different, but the process is the same: 
+- Using the mouse PCB as a way to trigger photos from a webcam: 
 
-Stacked construction with sewing thread to join layers, repurposed button using flexure:
-thread.png
+![Mouse camera](assets/mouse_recon/mouse_ex_1.svg)
 
-Rewired buttons, repurposed the scroll wheel, nice use of contrasting materials:
-rewired_buttons.png
+- Using the mouse PCB as a music controller:
 
-Excellent use of low-fidelity prototyping to get general shape and size using a discarded pen case and some folded paper:
-low_fidelity.png
+![Music controller](assets/mouse_recon/mouse_ex_2.svg)
 
-Creative method of creating 3D shapes using flat materials by folding, but remember to not just replicate a mouse's functionality.
-folded.png
+- Using the scroll wheel as a volume controller, also uses the stacked construction technique you'll need to use:
 
-In this example laser cutter file, you can see the number of 2D layers required to make a precise, stacked, 3D form, in this case a wheel from a toy:
-Example cut file
+![Stacked volume controller](assets/mouse_recon/mouse_ex_3.svg)
+
+- In this example laser cutter file, you can see the number of 2D layers required to make a precise, stacked, 3D form, in this case a wheel from a toy:
+
+![Cut file example](assets/mouse_recon/cut_ex.svg)
 
 # Learning Objectives
 - Create a functional electronics enclosure that is constrained by existing parts (PCB)
@@ -54,13 +56,13 @@ Example cut file
     - Demonstrate during critiques
 
 # References
-First download and install the Shaper Origin Plugin for Fusion making sure to choose the appropriate operating system. Link here.Links to an external site.
+First download and install the Shaper Origin Plugin for Fusion making sure to choose the appropriate operating system. [Link here](https://apps.autodesk.com/FUSION/en/Detail/Index?id=3662665235866169729).
 
 Windows will tell you it is a sketchy piece of software, but it is safe to run. This plugin frequently breaks whenever Fusion is updated, but the developers update it quickly. You may need to reinstall a few times this quarter.
 
 Once installed, open Fusion. Navigate to the Utilities tab (1), then select the Export to Origin icon (2), then check the Advanced box (3).
 
-fusion_export.png
+![Fusion Export screen](assets/mouse_recon/fusion_export.png)
 
 You will then have the option to export from many formats. You will likely end up using the Entire Sketch option for this, but play around with the options and see how they look. You may need to create new sketches and project (keyboard shortcut 'p') to get only the geometry you care about.
 
@@ -68,7 +70,7 @@ Once you have all of the parts exported into individual SVGs, you can join them 
 
 # Optional Implementation
 ## Mac
-Jeremy has created this guideLinks to an external site. for making your repurposed mouse button work on a Mac computer. It's really easy and should take you about 10 minutes. There are also some recommended functions that you might find useful as inspiration for your enclosure, even if you don't intend to follow these steps. We would welcome help from any expert students who can put together a similar guide but for a PC.
+[Here is a guide](assets/mouse_recon/remapping_mac.pdf) to making your repurposed mouse button work on a Mac computer. It's really easy and should take you about 10 minutes. There are also some recommended functions that you might find useful as inspiration for your enclosure, even if you don't intend to follow these steps. We would welcome help from any expert students who can put together a similar guide but for a PC.
 
 Even if you don't want to follow the steps for repurposing the mouse, you can reassemble all the original parts and use it as... a mouse! (very handy for CAD work). We want to discourage waste in this course, so if you don't need your mouse, you can return it to us or donate it.
 
@@ -87,7 +89,7 @@ Windows doesn't distinguish between different mouses, so this is a little toughe
 | Points | Requirement |
 | --- | --- |
 | 1 | Description of concept |
-| 3 | 10+ Hand sketches |
+| 2.5 | 10+ Hand sketches |
 | 1 | Size and shape prototype (hand crafted) |
 | 1 | PCB dimensions prototype (lasercut) |
 | 1 | Press fit joint prototype (laser cut) |
