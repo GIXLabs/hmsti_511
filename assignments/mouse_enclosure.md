@@ -1,7 +1,9 @@
 ![Prototype of first mouse](assets/mouse_recon/mouse_prototype.svg)
 
 # Overview
-You will be repurposing the PCB (printed circuit board) from the mouse you analyzed last week in Assignment 1.1. To do this, you will use sheet materials to create a new enclosure for the PCB, allowing for one of the existing PCB buttons to be pressed. This button can be reprogrammed to trigger one of many shortcuts on your computer. You should have a use case in mind for your repurposed mouse and it shouldn't just be to act like a normal mouse in a new enclosure. For example, it could be meant to be a mute button pedal for Zoom meetings, a shuffle button for a playlist, or any other combination of input and application. Ideally, your design will enhance the use case you have in mind, rather than just being a button.
+You will be repurposing the PCB (printed circuit board) from the mouse you analyzed last week in Assignment 1.1. To do this, you will use sheet materials to create a new enclosure for the PCB, allowing for one of the existing PCB buttons to be pressed. This button can be reprogrammed to trigger one of many shortcuts on your computer. 
+
+You should have a use case in mind for your repurposed mouse and it shouldn't just be to act like a normal mouse in a new enclosure. For example, it could be meant to be a mute button pedal for Zoom meetings, a shuffle button for a playlist, or any other combination of input and application. Ideally, your design will enhance the use case you have in mind, rather than just being a button.
 
 # Examples
 
@@ -41,7 +43,7 @@ Here is some work completed during a previous class. The project was slightly di
     - Brief description of your concept (250 words max)
         - Will be used during critique.
     - Sketches - minimum 10, included in sketchbook and scanned into PDF
-    - 3+ low fidelity prototypes (at least 1 by hand)
+    - 3+ low fidelity prototypes
         - One must be made by hand to answer the question of what size and shape should your design take (can be cardboard, foam, tape, clay, or anything else you can shape easily and quickly without a computer).
         - One must quickly evaluate whether you have gotten the dimensions of the PCB correct. Please use the lasers for this.
         - One to evaluate press fit joint you'll use to connect the layers together. Please use the lasers for this.
