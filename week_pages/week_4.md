@@ -16,7 +16,7 @@ By the end of this week you will be able to do the following:
 | --- | --- | --- | --- |
 | Tuesday |	11:00 PM |	3D Printer Setting Activity | Yes |
 | Friday | 11:00 PM | 4 Existing Product Sketches |  |	
-| Monday (week 5) | 11:00 PM | Mooncake Design |  |	
+| Monday (week 5) | 11:00 PM | [Mooncake Design](/assignments/mooncake_enclosure.md) |  |	
 
 ## Tuesday Class Prep
 Bring computer with Cura installed (https://ultimaker.com/software/ultimaker-cura/).
