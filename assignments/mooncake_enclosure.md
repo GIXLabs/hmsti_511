@@ -1,25 +1,20 @@
 # Overview
-Most products are designed to be interacted with by humans. This adds a layer of complexity requiring considered design and construction. In this assignment, you will move beyond stacked construction in order to create more complex 3D forms out of 2D sheet materials. While trying to solve practical problems of shape, form, and function, you will continue to hone your low and medium-fidelity prototyping skills, and build rationale for your design decisions.
-
-Scenario: The hotel you designed mooncakes for is thrilled with your design and has asked you to design packaging to go with it. Your design should include one or more moving parts, such as a hinged/sliding/pivoting feature that adds to the interaction experience. You can embellish the enclosure however you wish, perhaps incorporating surface designs and internal structural cushioning and bracing.
-
-Your design should take cues from the mooncake itself: Who is the target customer of your hotel's mooncakes? Are there any existing brand elements that could be continued into the packaging? How are customers expected to interact with it? Whatever your intent, you should be able to explain and justify it.
-
-The hotel is particularly worried about intellectual property (they don't want to be sued), so you will need to create a unique design and cite any sources of inspiration.
-
-Your final prototype should be produced to a good standard of quality that functions as designed and demonstrates attention to detail and craftsmanship. The final version should open and close easily and display stability in normal use. 
+In this assignment, you will move beyond stacked construction in order to create more complex 3D forms out of sheet materials. You will be making an enclosure for your 6x mooncakes from the A2.1, using the same hotel as your theme. You will also need to incorporate some moving parts like drawers or hinges.
 
 # Examples
 
-Note: these are all from previous versions of the assignment that involved enclosing beverage bottles and phones. Yours should enclose your 6 mooncakes.
+Featuring a lid and moving parts.
+![Example 1](assets/mooncake_enclosure/ex_1.svg)
 
-Slat pattern to produce "animation" when opening.
+A dynamic sculptural enclosure.
+![Example 2](assets/mooncake_enclosure/ex_2.svg)
 
-Clever use of rope stitching to create a hinge (though you should have a lasercut mechanism too)
+Basic drawer, definitely the easiest technique, but this would not have been enough customization if it had used a box generator.
+![Example 3](assets/mooncake_enclosure/ex_3.svg)
 
-Nice use of springs to provide a dramatic opening experience.
+Nice use of springs to provide a dramatic opening experience, from a previous iteration of this assignment that involved packaging beverages.
 
-Rack and pinion mechanism to reveal bottle.
+![Example 4](assets/mooncake_enclosure/ex_4.svg)
 
 # Learning Objectives
 - Be able to choose the appropriate approach for different stages of the design process
@@ -35,6 +30,7 @@ Rack and pinion mechanism to reveal bottle.
 - Must contain at least one joint, hinge, pivot, drawer or similar feature.
 - Packaging must enclose your 6 mooncakes from A2.1.
 - The design should be your own, though starting from a box generator is ok. Provide a link to any box generators or other sources you used.
+    - Adding a decorative engraving on a basic box from a box generator is not enough of a change.
 - No 3D printing.
 
 # Deliverables
@@ -65,9 +61,8 @@ You may use an existing box generator as a starting point for your enclosure. Yo
 | Points | Requirement |
 | --- | --- |
 | 1 | Description of concept |
-| 2.5 | 3+ Hand sketches of different concepts with at least one isometric |
-| 0.5 | Engineering drawing |
+| 3 | 10+ Hand sketches |
 | 3 | Iteration and notes |
 | 0.5 | Fusion 360 link |
-| 1 | 6x Final design |
+| 1 | Final lasercut prototype |
 | 1.5 | Execution Quality |
