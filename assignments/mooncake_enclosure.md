@@ -4,12 +4,15 @@ In this assignment, you will move beyond stacked construction in order to create
 # Examples
 
 Featuring a lid and moving parts.
+
 ![Example 1](assets/mooncake_enclosure/ex_1.svg)
 
 A dynamic sculptural enclosure.
+
 ![Example 2](assets/mooncake_enclosure/ex_2.svg)
 
 Basic drawer, definitely the easiest technique, but this would not have been enough customization if it had used a box generator.
+
 ![Example 3](assets/mooncake_enclosure/ex_3.svg)
 
 Nice use of springs to provide a dramatic opening experience, from a previous iteration of this assignment that involved packaging beverages.
