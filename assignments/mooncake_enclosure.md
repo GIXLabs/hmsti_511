@@ -38,7 +38,8 @@ Nice use of springs to provide a dramatic opening experience, from a previous it
     - Brief description of your concept (250 words max)
     - Will be used during critique.
     - Sketches - minimum 10, included in sketchbook and scanned into PDF
-    - 2+ low fidelity prototypes (at least 1 by hand)
+    - Handmade prototype to determine overall shape and form
+    - Lasercut prototype to test your moving parts (drawer, hinge, etc)
     - 1+ medium fidelity lasercut prototype (final prototype)
     - Notes on what you learned in each prototype
     - Submitted on Canvas, must be under 10 mb in size
@@ -53,16 +54,16 @@ Nice use of springs to provide a dramatic opening experience, from a previous it
     - Participate in peer critiques
     - Fill out critique reflection on Canvas
 
-# Use of Existing Resources
-
-You may use an existing box generator as a starting point for your enclosure. You may use existing designs as design inspirations for your work. You may not download an existing file and simply modify it slightly and present it as your own work. 
+# On Box Generators and Designs
+You may use a box generator as a starting point for your enclosure. You may also use existing designs as design inspirations for your work. You **may not** download an existing file and simply modify it slightly and present it as your own work. 
 
 # Rubric
 | Points | Requirement |
 | --- | --- |
 | 1 | Description of concept |
 | 3 | 10+ Hand sketches |
-| 3 | Iteration and notes |
+| 1.5 | Handcrafted size and shape prototype |
+| 1.5 | Lasercut moving parts prototype |
 | 0.5 | Fusion 360 link |
 | 1 | Final lasercut prototype |
 | 1.5 | Execution Quality |
