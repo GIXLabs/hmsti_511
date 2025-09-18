@@ -26,11 +26,11 @@ In this activity, you'll be learning how to make a box in Fusion. Through this w
 
 1. Extruding the first 
     1. From the top ribbon, click the Extrude button.
+    2. In the Extrude dialog box, click "Profiles" (2a) and select all the sections that make up the first wall of your box (2b). Don't select your name.
+    3. Set the distance to "thick." You could manually type in a different number here instead, but let's make use of our parameter.
+    
+    ![Extrude button on ribbon](assets/fusion_box/extrude.svg)
 
-        ![Extrude button on ribbon](assets/fusion_box/extrude.svg)
-
-    1. In the Extrude dialog box, click "Profiles" and select all the sections that make up the first wall of your box. Don't select your name.
-    1. Set the distance to "thick." You could manually type in a different number here instead, but let's make use of our parameter.
     1. Click ok.
     1. Notice that the Sketch disappears. We will need it for the future steps too, so click on the Sketch dropdown menu in the Browser and click the eye next to Sketch 1 to make it visible again.
     
@@ -51,23 +51,20 @@ In this activity, you'll be learning how to make a box in Fusion. Through this w
     1. To make the tabs for the floor, click Extrude and select just the tab regions.
     1. We could use our parameter again to make sure the tabs are extruded the right amount, and it would work just fine, but it doesn't really capture our intent. Our intent is that the tabs should go all the way through the side walls and Fusion will let us do that.
     1. Under Extent Type in the Extrude dialog box, select To Object.
-
-        ![Extent type options](assets/fusion_box/extent_type.svg)
-
     1. Make the side wall visible again through the Body dropdown in the Browser.
     1. Select the face of the side wall, then hide that Body again.
     1. This will make the tab go up to the edge of the side wall, no matter how you change the side wall thickness.
+
+        ![Extent type options](assets/fusion_box/extent_type.svg)
+        
 1. Extruding the remaining sides
     1. Make the remaining 3 sides by repeating the techniques used to make the floor of the box.
 1. Mirroring walls
-    1. Select the Mirror feature under the Create section of the Ribbon.
-
-        ![Mirror in 3D](assets/fusion_box/mirror_body.svg)
-
+    1. Select the Mirror feature under the Create section of the Ribbon. and select the Body you'd like to mirror.
     1. Choose a wall to start with (bottom, top, left, or right) and hide the remaining walls in the Browser.
     1. In the Mirror dialog box, select the face at the end of the wall as your Mirror Plane.
 
-        ![Selecting mirror plane](assets/fusion_box/mirror_plane.svg)
+        ![Mirror in 3D](assets/fusion_box/mirror_body.svg)
 
     1. Click OK to finish the mirror.
 1. Mirroring side wall
