@@ -19,7 +19,7 @@ By the end of this week you will be able to do the following:
 | Monday (week 5) | 11:00 PM | [Mooncake Design](/assignments/mooncake_enclosure.md) |  |	
 
 ## Tuesday Class Prep
-Bring computer with Cura installed (https://ultimaker.com/software/ultimaker-cura/).
+Bring computer with Bambu Studio installed (https://bambulab.com/en/download/studio).
 
 ## Media to Produce
 Will it print? Time lapses

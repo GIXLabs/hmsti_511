@@ -7,6 +7,10 @@
         - Explore the Bambu Studio settings individually before pairing and grouping to discuss.
             - Pick a setting you think is important, but not one you think anyone else will pick.
             - Read the page on the Bambu wiki (hover over the setting in Bambu Studio, then follow the link that pops up).
+            - On Canvas
+                - Which setting did you explore?
+                - In your words, what does it do?
+                - Why do you think it is important?
 - 15 minutes: Lecture on 3D printer settings.
     - Layer height
     - Support enabled
