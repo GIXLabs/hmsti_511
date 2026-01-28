@@ -4,6 +4,9 @@
         - Needs to be interactive
         - Have a submission
         - Preamble and motivation for the lecture on settings
+        - Explore the Bambu Studio settings individually before pairing and grouping to discuss.
+            - Pick a setting you think is important, but not one you think anyone else will pick.
+            - Read the page on the Bambu wiki (hover over the setting in Bambu Studio, then follow the link that pops up).
 - 15 minutes: Lecture on 3D printer settings.
     - Layer height
     - Support enabled
@@ -11,6 +14,6 @@
     - Kinds of support (tree vs normal)
     - Bed adhesion
 - 15 minutes: Lecture on low-fidelity techniques in 3D printing.
-    - Testing sub-assemblies
-    - Low wall count
-    - Large layer heights
+    - Testing sub-assemblies (print small parts to reduce uncertainty)
+    - Low wall count (unless strength is the uncertainty)
+    - Large layer heights (you won't notice the difference, but it'll be faster)
