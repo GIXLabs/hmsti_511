@@ -1,6 +1,15 @@
 # Tuesday Synchronous Remote (90 minutes)
-- 15 minutes: 3D printer setting activity.
+- 20 minutes: 3D printer setting activity.
+    - What is this activity?
+        - Needs to be interactive
+        - Have a submission
+        - Preamble and motivation for the lecture on settings
 - 15 minutes: Lecture on 3D printer settings.
+    - Layer height
+    - Support enabled
+    - Wall count
+    - Kinds of support (tree vs normal)
+    - Bed adhesion
 - 15 minutes: Lecture on low-fidelity techniques in 3D printing.
     - Testing sub-assemblies
     - Low wall count
