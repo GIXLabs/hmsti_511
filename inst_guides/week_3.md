@@ -29,3 +29,5 @@
 - 10 minutes: Lecture on casting leading into introduction to Mooncake design assignment
 - 15 minute: Vacuum forming demo
 - Remaining time: Fusion worktime on mooncake designs.
+
+Note: Students will be turning in their lasercut mouse assignments prior to the Saturday session
