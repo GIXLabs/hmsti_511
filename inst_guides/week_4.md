@@ -17,6 +17,7 @@
     - Wall count
     - Kinds of support (tree vs normal)
     - Bed adhesion
+- 15 minutes: Activity taking a model and slicing it, comparing times.
 - 15 minutes: Lecture on low-fidelity techniques in 3D printing.
     - Testing sub-assemblies (print small parts to reduce uncertainty)
     - Low wall count (unless strength is the uncertainty)
