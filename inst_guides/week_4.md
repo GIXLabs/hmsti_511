@@ -22,5 +22,5 @@
     - Testing sub-assemblies (print small parts to reduce uncertainty)
     - Low wall count (unless strength is the uncertainty)
     - Large layer heights (you won't notice the difference, but it'll be faster)
-
+- Remaining time: Modeling help session.
 Note: Students will be working on their mooncake assignments at this time.
