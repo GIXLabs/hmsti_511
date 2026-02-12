@@ -10,3 +10,4 @@
     - Catch all tray?
     - Door stopper?
     - Desk organizer?
+- Critiquing final project ideas
