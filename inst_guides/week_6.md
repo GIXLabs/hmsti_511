@@ -1,1 +1,12 @@
 # Tuesday Synchronous Remote (90 minutes)
+- Lecture on subtractive manufacturing techniques
+    - CNC Machining
+    - Sheet metal stamping
+    - Fiber laser
+    - Water jet
+- Demo on toolpaths in Fusion
+- Activity making your own toolpath
+    - Name plate?
+    - Catch all tray?
+    - Door stopper?
+    - Desk organizer?
