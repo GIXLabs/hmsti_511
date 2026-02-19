@@ -7,7 +7,7 @@
         - Revolute joints
         - Checking for interference
 - Lecture on engineering drawings
-    - Activity modeling parts from engineering drawings.
+    - Activity modeling parts from engineering drawings. Submission online
     - Activity finding the missing dimension on an engineering drawing.
 
 # Saturday In-Person (3 hours)
