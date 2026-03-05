@@ -10,7 +10,7 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
-| Wednesday | 11:00 PM | Final Project Poster |  |	
+| Thursday | 11:00 PM | Final Project Poster |  |	
 | Saturday | (class time) | Final Project Presentation | Yes |
 | Saturday | 11:00 PM | Final Project Feedback | Yes |
 
@@ -22,5 +22,8 @@ Bring physical final project and poster.
 
 ## Media to Produce
 None
+
+## Notes
+- The Thursday due date for the final project poster is so Prototyping Lab staff can print the posters at GIX in time for Saturday.
 
 [Instructional Guide](/inst_guides/week_9.md)
