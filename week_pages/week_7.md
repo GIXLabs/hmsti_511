@@ -22,6 +22,7 @@ Bring final project prototypes.
 
 ## Saturday Class Prep
 Bring personal light project.
+Bring Mooncake design for vacuum formimg.
 
 ## Media to Produce
 Demos could be a video, but would rather do in person.
