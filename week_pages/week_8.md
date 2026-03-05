@@ -5,7 +5,7 @@ This week, we’ll continue work on your final projects, exploring other less-us
 
 ## Learning Objectives
 By the end of this week you will be able to do the following:
-- List all the equipment available for you in future classes at GIX.
+- List all the equipment available to you in future classes at GIX.
 
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |
