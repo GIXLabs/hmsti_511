@@ -18,13 +18,13 @@ By the end of this week you will be able to do the following:
 | Monday (week 8) | 11:00 PM | Personal Light Quotes |  |	
 
 ## Tuesday Class Prep
-Bring final project prototypes.
+- Bring final project prototypes.
 
 ## Saturday Class Prep
-Bring personal light project.
-Bring Mooncake design for vacuum formimg.
+- Bring personal light project.
+- Bring Mooncake design for vacuum formimg.
 
 ## Media to Produce
-Demos could be a video, but would rather do in person.
+- Demos could be a video, but would rather do in person.
 
 [Instructional Guide](/inst_guides/week_7.md)
