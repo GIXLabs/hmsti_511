@@ -7,7 +7,7 @@
     - Feeds and speeds
 - 40 mins: Activity making your own toolpath
     - Desk organizer
-- 30 mins: Critiquing final project ideas as groups with critique reflection due later
+- 30 mins: Critiquing final project proposals as groups with critique reflection due later
 
 Asynchronous assignment:
 

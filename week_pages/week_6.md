@@ -11,9 +11,9 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
-| Tuesday | 11:00 PM | Reflection on Manufacturing Exercise | Yes |
-| Monday (week 7) | 11:00 PM | Final Project Proposals |  |	
-| Friday (week 7) | 11:00 PM | Toolpaths for CNC |  |	
+| Monday | 11:00 PM | Final Project Proposals |  |	
+| Tuesday | 11:00 PM | Reflection on final project critiques | Yes |
+| Friday | 11:00 PM | Toolpaths for CNC |  |	
 
 ## Tuesday Class Prep
 Bring final project ideas.
