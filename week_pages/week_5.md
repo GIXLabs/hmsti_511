@@ -12,6 +12,7 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
+| Monday | 11:00 PM | [Mooncake Design](/assignments/mooncake_enclosure.md) |  |	
 | Tuesday |	11:00 PM |	Sketches for Personal Light Project |  |	
 | Friday | 11:00 PM | Joints in Fusion |  |	
 | Saturday | 11:00 PM | Mooncake Critique Reflection | Yes |
