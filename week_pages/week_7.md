@@ -7,6 +7,7 @@ By the end of this week you will be able to do the following:
 - List several casting techniques.
 - Describe the limitations of each casting technique.
 - Describe how changes to designs impact cost.
+- Use a vacuum former to create a mold.
 
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |

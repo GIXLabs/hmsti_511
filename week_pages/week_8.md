@@ -1,7 +1,7 @@
 # Week 8: GIX Resources
 
 ## Overview
-This week, we’ll continue work on your final projects, exploring other less-used equipment available at GIX. You will also make a mold of your earlier mooncake design.
+This week, we’ll continue work on your final projects, exploring other less-used equipment available at GIX.
 
 ## Learning Objectives
 By the end of this week you will be able to do the following:

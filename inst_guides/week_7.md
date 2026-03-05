@@ -8,3 +8,4 @@
     - Polyurethane casting with molds
     - Injection mold demo?
         - Requires new piece of equipment
+- Making vacuum-formed molds from mooncakes
