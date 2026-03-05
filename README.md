@@ -31,10 +31,10 @@ Your grade in this class is broken down into the following weighted categories:
 - Engagement/In-class activities: 15%
 
 ## Faculty Introduction/Information
-Instructor: Kevin Arne
-Emai: karne@uw.edu
-Office: Prototyping Lab Shop Office
-Office Hours: TBD
+- Instructor: Kevin Arne
+- Email: karne@uw.edu
+- Office: Prototyping Lab Shop Office
+- Office Hours: TBD
 
 ## Communication
 All official communication from the teaching team (e.g., course meetings, grades, due dates, etc.) is via Announcements on Canvas. Please make sure your Canvas Announcements/notifications settings are correct.
