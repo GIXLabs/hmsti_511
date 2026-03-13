@@ -15,10 +15,11 @@ By the end of this week you will be able to do the following:
 | Saturday | 11:00 PM | Final Project Feedback | Yes |
 
 ## Tuesday Class Prep
-Bring final project prototypes.
+- Bring final project prototypes.
+- Prepare a pitch for your project, which will be critiqued in small groups.
 
 ## Saturday Class Prep
-Bring physical final project and poster.
+- Bring physical final project and poster.
 
 ## Media to Produce
 None
