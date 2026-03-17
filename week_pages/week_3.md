@@ -13,7 +13,7 @@ By the end of this week you will be able to do the following:
 | --- | --- | --- | --- |
 | Thursday | 11:00 PM |	Hand Sketches of Joinery |  |	
 | Friday | 11:00 PM | Modeling Joinery |  |	
-| Saturday | 11:00 PM |	Mouse Enclosure Critique | Yes |
+| Saturday | 11:00 PM |	[Mouse Enclosure Critique](/assignments/mouse_critique.md) | Yes |
 | Monday (week 4) |	11:00 PM | Problem at Home |  |
 
 ## Tuesday Class Prep
