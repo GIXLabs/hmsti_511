@@ -11,6 +11,8 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time |	Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
+| Tuesday | 8:00 PM | [Lasercut Joint Activity](/assignments/lasercut_joints.md) | Yes |
+| Tuesday | 8:00 PM | Will It Print | Yes |
 | Thursday | 11:00 PM |	Hand Sketches of Joinery |  |	
 | Friday | 11:00 PM | Modeling Joinery |  |	
 | Saturday | 11:00 PM |	[Mouse Enclosure Critique](/assignments/mouse_critique.md) | Yes |
