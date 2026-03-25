@@ -11,6 +11,7 @@
                 - Which setting did you explore?
                 - In your words, what does it do?
                 - Why do you think it is important?
+- 5 minute break
 - 15 minutes: Lecture on 3D printer settings.
     - Layer height
     - Support enabled
@@ -18,6 +19,7 @@
     - Kinds of support (tree vs normal)
     - Bed adhesion
 - 15 minutes: Activity taking a model and slicing it, comparing times.
+- 10 minute break
 - 15 minutes: Lecture on low-fidelity techniques in 3D printing.
     - Testing sub-assemblies (print small parts to reduce uncertainty)
     - Low wall count (unless strength is the uncertainty)

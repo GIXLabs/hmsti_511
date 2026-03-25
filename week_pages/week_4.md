@@ -14,7 +14,7 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time |	Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
-| Tuesday |	11:00 PM |	3D Printer Settings Activity | Yes |
+| Tuesday |	11:00 PM |	[3D Printer Settings Activity](/assignments/printer_settings.md) | Yes |
 | Friday | 11:00 PM | 4 Existing Product Sketches |  |	
 | Monday (week 5) | 11:00 PM | [Mooncake Design](/assignments/mooncake_enclosure.md) |  |	
 
@@ -22,6 +22,6 @@ By the end of this week you will be able to do the following:
 Bring computer with Bambu Studio installed (https://bambulab.com/en/download/studio).
 
 ## Media to Produce
-Will it print? Time lapses
+None
 
 [Instructional Guide](/inst_guides/week_4.md)
