@@ -15,7 +15,7 @@ By the end of this week you will be able to do the following:
 | Friday | 11:00 PM | [Modeling Joinery](/assignments/modeling_joinery.md) |  |	
 | Saturday | 8:00 PM | [Will It Print](/assignments/will_it_print.md) | Yes |
 | Saturday | 11:00 PM |	[Mouse Enclosure Critique](/assignments/mouse_critique.md) | Yes |
-| Monday (week 4) |	11:00 PM | Problem at Home |  |
+| Monday (week 4) |	11:00 PM | [Problem at Home](/assignments/prob_at_home_sketch.md) |  |
 
 ## Tuesday Class Prep
 Bring screwdriver, joint kit from week 2 pickup.
