@@ -15,7 +15,6 @@ By the end of this week you will be able to do the following:
 | Due Date | Due Time |	Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
 | Tuesday |	11:00 PM |	[3D Printer Settings Activity](/assignments/printer_settings.md) | Yes |
-| Friday | 11:00 PM | 4 Existing Product Sketches |  |	
 | Monday (week 5) | 11:00 PM | [Mooncake Design](/assignments/mooncake_enclosure.md) |  |	
 
 ## Tuesday Class Prep
