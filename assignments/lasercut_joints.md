@@ -2,6 +2,7 @@
 Lasercutter only cut out flat sheets, if you want to make a 3D object, you'll need to join those pieces together. This activity is intended to expose you to a few different methods of joining flat sections, but it is not an exhaustive list (or even close to one).
 
 # Learning Objectives
+By the end of this assignment you will be able to:
 - Join sheet materials to create 3D objects.
 
 # Quiz Format

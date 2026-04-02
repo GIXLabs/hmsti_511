@@ -8,6 +8,7 @@ You are tasked with modeling the following basic lasercut joints using Fusion:
 ![Photo of the 5 joints: Basic finger joint, Kerf-adjusted finger joint, Mortise and tenon, Snap joint, and Fastener joint]()
 
 # Learning Objectives
+By the end of this activity you will be able to:
 - Design several lasercut joints.
 
 # Constraints
