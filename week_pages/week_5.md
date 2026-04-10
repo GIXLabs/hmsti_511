@@ -14,7 +14,7 @@ By the end of this week you will be able to do the following:
 | --- | --- | --- | --- |
 | Monday | 11:00 PM | [Mooncake Design](/assignments/mooncake_enclosure.md) |  |	
 | Tuesday |	11:00 PM |	[Sketches for Personal Light Project](/assignments/personal_light_sketch.md) |  |	
-| Friday | 11:00 PM | Joints in Fusion |  |	
+| Friday | 11:00 PM | [Joints in Fusion](fusion_joints.md) |  |	
 | Saturday | 11:00 PM | [Mooncake Critique Reflection](/assignments/mooncake_critique.md) | Yes |
 | Saturday | 11:00 PM | 3D Printed Joint Activity | Yes |
 

@@ -14,7 +14,7 @@ By the end of this week you will be able to do the following:
 | --- | --- | --- | --- |
 | Tuesday (week 2) | 11:00 PM |	[Documentation Critique Reflection](/assignments/critique_reflection.md) |	Yes |
 | Friday | 11:00 PM | [Sketch Environment in Fusion](/assignments/2d_sketching.md) |  |	
-| Friday | 11:00 PM | 4 Product Sketches |  |	
+| Friday | 11:00 PM | [4 Product Sketches](/assignments/prod_sketch.md) |  |	
 | Monday (week 3) |	11:00 PM | [Laser Cut Mouse](/assignments/mouse_enclosure.md) |  |	
 
 ## Tuesday Class Prep
