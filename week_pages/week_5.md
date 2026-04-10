@@ -16,7 +16,7 @@ By the end of this week you will be able to do the following:
 | Tuesday |	11:00 PM |	[Sketches for Personal Light Project](/assignments/personal_light_sketch.md) |  |	
 | Friday | 11:00 PM | [Joints in Fusion](fusion_joints.md) |  |	
 | Saturday | 11:00 PM | [Mooncake Critique Reflection](/assignments/mooncake_critique.md) | Yes |
-| Saturday | 11:00 PM | 3D Printed Joint Activity | Yes |
+| Saturday | 11:00 PM | [3D Printed Joint Activity](assignments/3d_joints.md) | Yes |
 
 ## Tuesday Class Prep
 Bring computer with Fusion installed.
