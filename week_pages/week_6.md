@@ -11,7 +11,7 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
-| Monday | 11:00 PM | Final Project Proposals |  |	
+| Monday | 11:00 PM | [Final Project Proposals](/assignments/final_proposal.md) |  |	
 | Tuesday | 11:00 PM | Reflection on final project critiques | Yes |
 | Friday | 11:00 PM | Toolpaths for CNC |  |	
 
