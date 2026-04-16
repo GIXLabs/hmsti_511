@@ -13,7 +13,7 @@ By the end of this week you will be able to do the following:
 | --- | --- | --- | --- |
 | Monday | 11:00 PM | [Final Project Proposals](/assignments/final_proposal.md) |  |	
 | Tuesday | 11:00 PM | [Reflection on final project critiques](/assignments/proposal_critique.md) | Yes |
-| Friday | 11:00 PM | Toolpaths for CNC |  |	
+| Friday | 11:00 PM | [Toolpaths for CNC](/assignments/toolpaths.md) |  |	
 
 ## Tuesday Class Prep
 Bring final project ideas.
