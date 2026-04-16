@@ -1,0 +1,1 @@
+Same as the [Mouse Enclosure Critique](mouse_critique.md).
