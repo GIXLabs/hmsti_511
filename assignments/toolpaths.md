@@ -17,10 +17,14 @@ Here is an example of what your desk organizer might look like, but make yours f
 [Image showing where to find the Manufacturing tab on the Fusion ribbon](assets/toolpaths/manu_tab.svg)
 1. Create your stock
 The stock is the piece of material you're going to carve the desk organizer out of. Think of it as the piece of wood you buy from the store.
-[Image showing where dimensions are put into the stock]()
+[Image showing where dimensions are put into the stock](assets/toolpaths/stock_dims.svg)
+1. Put your origin in the right place.
+Select Stock Box Points. For now, place it on the bottom left corner by clicking the circle that shows up. 
+[Image showing the Stock Box Point location and where those points show up on the stock](assets/toolpaths/box_point.svg)
+Placement of your origin is heavily dependent on the machine you are using and the geometry of your part and stock. Its placement often determines which features of your design are most accurate, but that isn't a concern this time.
 1. Determine your axes.
+This needs to match your machine. For our purposes, the long axis should be X and the short axis should by Y, and Z should face upward. If Z doesn't face upward, try flip
 
-1. Put your origin in the right place
 
 1. Create 2D pocket toolpaths
 1. Create 2D contour toolpaths
