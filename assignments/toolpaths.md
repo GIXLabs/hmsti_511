@@ -23,8 +23,8 @@ Select Stock Box Points. For now, place it on the bottom left corner by clicking
 [Image showing the Stock Box Point location and where those points show up on the stock](assets/toolpaths/box_point.svg)
 Placement of your origin is heavily dependent on the machine you are using and the geometry of your part and stock. Its placement often determines which features of your design are most accurate, but that isn't a concern this time.
 1. Determine your axes.
-This needs to match your machine. For our purposes, the long axis should be X and the short axis should by Y, and Z should face upward. If Z doesn't face upward, try flip
-
+This needs to match your machine. For our purposes, the long axis should be X and the short axis should by Y, and Z should face upward. If Z doesn't face upward, try flipping your X or Y axes in the Stock dialog box.
+[Image showing correct placement of the origin](assets/toolpaths/origin.svg)
 
 1. Create 2D pocket toolpaths
 1. Create 2D contour toolpaths
