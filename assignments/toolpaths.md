@@ -26,8 +26,22 @@ Placement of your origin is heavily dependent on the machine you are using and t
 This needs to match your machine. For our purposes, the long axis should be X and the short axis should by Y, and Z should face upward. If Z doesn't face upward, try flipping your X or Y axes in the Stock dialog box.
 ![Image showing correct placement of the origin](assets/toolpaths/origin.svg)
 
-1. Create 2D pocket toolpaths
-1. Create 2D contour toolpaths
+1. Create 2D Pocket toolpaths
+    1. Select the 2D Pocket toolpath from the 2D section of the ribbon.
+    1. Choose the correct tool (1/4" Flat Endmill)
+    1. Change the feedrate to 80 in/min.
+    1. Select the bottom face of each pocket under the Geometry tab.
+    1. Under the Passes tab, uncheck Stock to Leave. This option is useful if you want to remove most of the material with a rougher bit, before doing another pass with a cleaner bit in another pass, but we'll stick to one pass for this assignment.
+    1. Check the Multiple Depths option and set the Maximum Roughing Stepdown to 0.125". A good default for stepdown (how deep the bit cuts in each pass) is half the diameter of the cutting bit (1/4" bit in our case).
+    1. Click OK.
+1. Create 2D Contour toolpaths
+    1. Select the 2D Contour toolpath
+    1. Choose the correct tool (1/4" Flat Endmill)
+    1. Change the feedrate to 80 in/min.
+    1. Select the bottom face of each pocket under the Geometry tab.
+    1. Under the Passes tab, uncheck Stock to Leave. This option is useful if you want to remove most of the material with a rougher bit, before doing another pass with a cleaner bit in another pass, but we'll stick to one pass for this assignment.
+    1. Check the Multiple Depths option and set the Maximum Roughing Stepdown to 0.125". A good default for stepdown (how deep the bit cuts in each pass) is half the diameter of the cutting bit (1/4" bit in our case).
+    1. Click OK.
 1. Simulate
     1. How long does it say it's going to take?
     1. Once the simulation has run, do the pockets have right angled corners? Why or why not?
