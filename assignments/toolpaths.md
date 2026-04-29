@@ -38,7 +38,7 @@ This needs to match your machine. For our purposes, the long axis should be X an
     1. Select the 2D Contour toolpath
     1. Choose the correct tool (1/4" Flat Endmill)
     1. Change the feedrate to 80 in/min.
-    1. Select the bottom face of each pocket under the Geometry tab.
+    1. Select the bottom edge of the exterior of the organizer under the Geometry tab.
     1. Under the Passes tab, uncheck Stock to Leave. This option is useful if you want to remove most of the material with a rougher bit, before doing another pass with a cleaner bit in another pass, but we'll stick to one pass for this assignment.
     1. Check the Multiple Depths option and set the Maximum Roughing Stepdown to 0.125". A good default for stepdown (how deep the bit cuts in each pass) is half the diameter of the cutting bit (1/4" bit in our case).
     1. Click OK.
