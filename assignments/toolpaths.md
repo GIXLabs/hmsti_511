@@ -31,11 +31,14 @@ This needs to match your machine. For our purposes, the long axis should be X an
         ![Image of where 2D Pocket toolpath can be found in the ribbon](assets/toolpaths/pocket.svg)
     1. Choose the correct tool (1/4" Flat Endmill)
         ![Image showing where to select a tool, then which tool library, then which tool in that library](assets/toolpaths/tool_selection.svg)
-    1. Change the feedrate to 80 in/min.
+    1. Change the feedrate to 80 in/min. Feedrate is the speed that the cutting tool moves, linearly. Think of it as how fast you would push a piece of wood into a saw. There are a ton of kinds of feedrates (plunge, lead-in, lead-out, ramp) and reasons to tweak all of those numbers, but that is in a realm of process engineering that is outside the scope of this class.
         ![Image showing where feedrate is in the dialog box](assets/toolpaths/feedrate.svg)
-    1. Select the bottom face of each pocket under the Geometry tab.
+    1. Select the bottom face of each pocket under the Geometry tab. It's very easy to select the wrong thing, so consider rotating the part to be better able to see what you're doing. If you mess this up, it'll be obvious when we simulate the toolpath later.
+        ![Image showing the Geometry tab and what a selected pocket looks like](assets/toolpaths/selecting_pockets.svg)
     1. Under the Passes tab, uncheck Stock to Leave. This option is useful if you want to remove most of the material with a rougher bit, before doing another pass with a cleaner bit in another pass, but we'll stick to one pass for this assignment.
+        ![Image showing where the Stock to Leave option is](assets/toolpaths/stock_to_leave.svg)
     1. Check the Multiple Depths option and set the Maximum Roughing Stepdown to 0.125". A good default for stepdown (how deep the bit cuts in each pass) is half the diameter of the cutting bit (1/4" bit in our case).
+        ![Image showing where the Multiple Depths options are](assets/toolpaths/multiple_depths.svg)
     1. Click OK.
 1. Create 2D Contour toolpaths
     1. Select the 2D Contour toolpath
