@@ -42,12 +42,15 @@ This needs to match your machine. For our purposes, the long axis should be X an
     1. Click OK.
 1. Create 2D Contour toolpaths
     1. Select the 2D Contour toolpath
-    1. Choose the correct tool (1/4" Flat Endmill)
-    1. Change the feedrate to 80 in/min.
-    1. Select the bottom edge of the exterior of the organizer under the Geometry tab.
-    1. Under the Passes tab, uncheck Stock to Leave. This option is useful if you want to remove most of the material with a rougher bit, before doing another pass with a cleaner bit in another pass, but we'll stick to one pass for this assignment.
-    1. Check the Multiple Depths option and set the Maximum Roughing Stepdown to 0.125". A good default for stepdown (how deep the bit cuts in each pass) is half the diameter of the cutting bit (1/4" bit in our case).
+    1. Choose the correct tool (1/4" Flat Endmill) the same way you did for the 2D Pocket. It should save your choice from last time.
+    1. Change the feedrate to 80 in/min. This will likely be saved from last time
+    1. In the Geomtry tab, select the bottom edge of the exterior of the organizer similarly to how you selected the interior of the pockets on the last toolpath.
+    1. Unlike last time, check the Tabs option. The default tabs are ok for our purpose. Since we are cutting our organizer out of a block of wood, once the organizer is freed from the stock (by cutting around the outside border) the organizer could shift around. In a best case scenario, this damages your organizer, but usually it also breaks the rather expensive milling bit. The tabs keep the organizer from shifting around once you're done cutting, then they can be clipped or chiseled off.
+        ![Image showing where the Tabs option is in the dialog box](assets/toolpaths/tabs.svg)
+    1. Under the Passes tab, uncheck Stock to Leave, just like last time.
+    1. Check the Multiple Depths option and set the Maximum Roughing Stepdown to 0.125" just like last time.
     1. Click OK.
 1. Simulate
-    1. How long does it say it's going to take?
-    1. Once the simulation has run, do the pockets have right angled corners? Why or why not?
+    1. Right click on the setup in the Browser and select Simulate. Click on the Statistics tab in the Simulate dialog box. How long does it say it's going to take? Over time you will develop intuition on how long a cut should take and this statistic will help you determine whether you've made a mistake.
+        ![Image showing the Simulate option in the Browser](assets/toolpaths/simulate_browser.svg)
+    1. Run the simulation by clicking the big play button at the bottom of the screen. Once the simulation has run, do the pockets have right angled corners? Why or why not? You may need to enable "Stock" on the Display tab so you can see what part of the stock remains after cutting. This is also somewhere that mistakes can show up as red bars.
