@@ -14,7 +14,7 @@ By the end of this week you will be able to do the following:
 | --- | --- | --- | --- |
 | Tuesday | 11:00 PM | [Final Project Low Fidelity Prototypes](/assignments/final_prototypes.md) |  |	
 | Friday | 11:00 PM | [Personal Light Project](/assignments/light_project.md) |  |	
-| Saturday | 11:00 PM | Personal Light Critique Reflection | Yes |
+| Saturday | 11:00 PM | [Personal Light Critique Reflection](/assignments/light_critique.md) | Yes |
 | Monday (week 8) | 11:00 PM | Personal Light Quotes |  |	
 
 ## Tuesday Class Prep
