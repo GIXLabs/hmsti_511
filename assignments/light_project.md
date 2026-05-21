@@ -6,6 +6,7 @@ You have been tasked with designing a light or lamp based around a lighting puck
 # Learning Objectives
 By the end of this project you will be able to do the following:
 - Join multiple 3D printed parts together.
+- Design for tolerances.
 
 # Constraints
 - Your design must be made up of multiple parts, joined together through the means mentioned in class.
