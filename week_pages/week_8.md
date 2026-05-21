@@ -10,8 +10,7 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
-| Monday | 11:00 PM | Medium-Fidelity Final Project Progress |  |	
-| Friday | 11:00 PM | Survey of GIX tools Canvas activity |  |
+| Monday | 11:00 PM | [Medium-Fidelity Final Project Progress](/assignments/med_final.md) |  |	
 
 ## Bring to Tuesday’s Class
 Bring final project progress.
