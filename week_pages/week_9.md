@@ -10,9 +10,8 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
-| Thursday | 11:00 PM | Final Project Poster |  |	
-| Saturday | (class time) | Final Project Presentation | Yes |
-| Saturday | 11:00 PM | Final Project Feedback | Yes |
+| Saturday | (class time) | [Final Project Presentation](/assignments/final_pres.md) | Yes |
+| Saturday | 11:00 PM | [Final Project Feedback](/assignments/final_feedback.md) | Yes |
 
 ## Tuesday Class Prep
 - Bring final project prototypes.
