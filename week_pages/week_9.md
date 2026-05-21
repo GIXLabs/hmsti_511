@@ -18,7 +18,7 @@ By the end of this week you will be able to do the following:
 - Prepare a pitch for your project, which will be critiqued in small groups.
 
 ## Saturday Class Prep
-- Bring physical final project and poster.
+- Bring physical final project.
 
 ## Media to Produce
 None
