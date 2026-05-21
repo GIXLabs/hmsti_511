@@ -11,8 +11,8 @@ By the end of this week you will be able to do the following:
 ## Deliverables
 | Due Date | Due Time | Title (linked in final) | Requires Class Participation |
 | --- | --- | --- | --- |
-| Saturday | 11:00 PM | Project Documentation |  |	
-| Saturday | 11:00 PM | Project Pricing Estimates |  |	
+| Saturday | 11:00 PM | [Project Documentation](/assignments/final_doc.md) |  |	
+| Saturday | 11:00 PM | [Project Pricing Estimates](/assignments/final_pricing.md) |  |	
 
 ## Bring to Tuesday’s Class
 None
