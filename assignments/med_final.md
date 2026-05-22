@@ -15,8 +15,8 @@ By the end of this activty, you will be able to:
 
 # Deliverables
 Single pdf (<10 MB) including:
-- New sketches with details that enabled your prototypes (e.g. critical dimensions)    
-- Images of at least 2 prototypes with notes
+- Any new sketches you've made   
+- Images of at least 2 new medium-fidelity prototypes with notes
     - What is this image of?
     - Why did you make that prototype?
     - What did you learn?
@@ -25,8 +25,8 @@ Single pdf (<10 MB) including:
 # Rubric
 | Points | Requirement |
 | --- | --- |
-| 1 | Sketch 1 |
-| 1 | Sketch 2 |
-| 1 | Sketch 3 |
+| 1 | Prototype 1 |
+| 1 | Prototype 2 |
+| 1 | Progress since last time |
 
 # FAQs
