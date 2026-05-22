@@ -1,5 +1,5 @@
 # Overview
-- You should have several low-fidelity models of the physical form your project will be taking for inspection and critical feedback ("desk crits"). You will probably also have some higher-fidelity models/prototypes for inspection. For the crit, be prepared to show us all of your prototype work in both digital and physical form for us to review (similar to the way we reviewed previous assignments). 
+You should have several low-fidelity models of the physical form your project will be taking for inspection and critical feedback. You will probably also have some higher-fidelity models/prototypes for inspection. For the crit, be prepared to show all of your prototype work in both digital and physical form for review (similar to the way we reviewed previous assignments). 
 
 - Numerous sketches and design concepts (including sketches in each of your sketchbooks)
 - Several physical prototypes of various levels of fidelity
