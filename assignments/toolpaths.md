@@ -15,8 +15,8 @@ Here is an example of what your desk organizer might look like, but make yours f
     ![Example of a suitable desk organizer model](assets/toolpaths/organizer_example.svg)
 1. Open the Manufacturing tab of Fusion
     ![Image showing where to find the Manufacturing tab on the Fusion ribbon](assets/toolpaths/manu_tab.svg)
-1. Create your stock
-The stock is the piece of material you're going to carve the desk organizer out of. Think of it as the piece of wood you buy from the store.
+1. Create your stock.
+The stock is the piece of material you're going to carve the desk organizer out of. Think of it as the piece of wood you buy from the store. Using the Fixed Size Stock option, match the dimensions for x, y, and z shown in the image below.
     ![Image showing where dimensions are put into the stock](assets/toolpaths/stock_dims.svg)
 1. Put your origin in the right place.
 Select Stock Box Points. For now, place it on the bottom left corner by clicking the circle that shows up. 
