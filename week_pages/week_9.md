@@ -24,6 +24,5 @@ By the end of this week you will be able to do the following:
 None
 
 ## Notes
-- The Thursday due date for the final project poster is so Prototyping Lab staff can print the posters at GIX in time for Saturday.
 
 [Instructional Guide](/inst_guides/week_9.md)
