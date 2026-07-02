@@ -21,25 +21,25 @@ Video on using calipers
 
 # Quiz Style
 1. .25 points: Does this number seem right? Y/N
-    - ![Image of caliper reading a number that's too small, possibly negative]()
+    ![Image of caliper reading a number that's too small, possibly negative](assets/calipers/wrong_measurement.svg)
 1. .25 points: What's the likely problem?
     - Low battery.
     - Using the wrong part of the caliper to measure.
     - (Right answer) The calipers aren't zeroed properly.
 1. .5 points: Which part of the calipers would you use to measure the outer dimension of this cup?
-    ![Caliper anatomy image, but with A, B, C, and D replacing the names](/assets/calipers/anatomy_question.svg)
+    ![Caliper anatomy image, but with A, B, C, and D replacing the names](assets/calipers/anatomy_question.svg)
     - (Right answer) Outside jaws
     - Inside jaws
     - Step jwas
     - Depth gauge
 1. .5 points: Which part of the calipers would you use to measure the inner diameter of this cup?
-    ![Caliper anatomy image, but with A, B, C, and D replacing the names](/assets/calipers/anatomy_question.svg)
+    ![Caliper anatomy image, but with A, B, C, and D replacing the names](assets/calipers/anatomy_question.svg)
     - Outside jaws
     - (Right answer) Inside jaws
     - Step jwas
     - Depth gauge
 1. .5 points: Which part of the calipers would you use to measure the depth of this cup?
-    ![Caliper anatomy image, but with A, B, C, and D replacing the names](/assets/calipers/anatomy_question.svg)
+    ![Caliper anatomy image, but with A, B, C, and D replacing the names](assets/calipers/anatomy_question.svg)
     - Outside jaws
     - Inside jaws
     - Step jwas
