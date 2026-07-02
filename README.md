@@ -65,3 +65,11 @@ Before class starts, please:
 - [Week 8](week_pages/week_8.md)
 - [Week 9](week_pages/week_9.md)
 - [Week 10](week_pages/week_10.md)
+
+# To Do
+- Add a few images to measurement activity.
+- Create video on using calipers.
+- Standardize all rubrics on the following point totals:
+    - Major projects: 10 points
+    - Critique activities: 2 points
+    - Guided asynchronous activities: 5 points
