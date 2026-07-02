@@ -64,7 +64,7 @@ Video on using calipers
 
     ![Image using depth gauge](assets/calipers/depth_gauge.svg)
 
-1. 1 points: Use Fusion to draw a cross section of the cup. If you had a tapered cup, you can assume that the walls are vertical using the measurements at the top of the cup.
+1. .5 points: Use Fusion to draw a cross section of the cup. If you had a tapered cup, you can assume that the walls are vertical using the measurements at the top of the cup.
 
 # Resources
 [The Use of Digital Calipers](https://support.bantamtools.com/hc/en-us/articles/115001656313-Proper-Use-of-Digital-Calipers)
