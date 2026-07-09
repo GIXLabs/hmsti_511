@@ -9,10 +9,8 @@ By the end of this activity you'll be able to:
 # Quiz Format
 1. 0.75 points - Take three pictures of a cup. Two with your phone and one with your webcam. In each picture, vary the angle and background. With the phone pictures, include one with the flash on and one with the flash off.
     1. Submit your three cup photos by adding them in the text box below.
-
 1. 0.75 points - Take two pictures of a sketch (can be of whatever you'd like, maybe a smiley face if you don't have something else you'd like to draw). In one picture, use your phone, in the other use your webcam.
     1. Submit your two sketch photos by adding them in the text box below.
-
 1. 0.5 points - Which combination of lighting, background, and angle will you use for sharing ideas in class?
 
 # Resources
