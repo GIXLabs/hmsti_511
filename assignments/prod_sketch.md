@@ -23,6 +23,6 @@ By the end of this activity you will be able to:
 Each of these sketches will be due on consecutive days. This assignment write-up will actually be 4 assignments.
 
 # Resources
-[Orthographic projections]()
-[Decomposing objects into simple solids]()
-[Perspective and vanishing points]()
+[Orthographic projections](https://www.youtube.com/watch?v=Rz4WWtDX2Kc)
+[Decomposing objects into simple solids](https://www.youtube.com/watch?v=TntR8sb-UMc)
+[Perspective and vanishing points](https://www.youtube.com/watch?v=O9TxnNTKLXg)
