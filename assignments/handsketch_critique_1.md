@@ -3,21 +3,17 @@
 
  So is seeking out negative feedback, which most peers won't give you without prompting. Negative feedback is a gift and far more helpful for learning than generic positive feedback.
 
+# Learning Objectives
+By the end of this activity you will be able to:
+- Give both positive and negative feedback to peers.
+- Receive both positive and negative feedback from peers.
 
-# Instructions
+# Quiz Format
 Answer the following questions in the form.
-1. What are two pieces of positive feedback you received?
-1. What are two pieces of negative feedback you received?
-1. What are two pieces of positive feedback you gave?
-1. What are two pieces of negative feedback you gave?
-
-# Rubric
-| Points | Requirement |
-| --- | --- |
-| 1 | Positive received |
-| 1 | Negative received |
-| 1 | Positive given |
-| 1 | Negative given |
+1. 0.5 points - What are two pieces of positive feedback you received?
+1. 0.5 points - What are two pieces of negative feedback you received?
+1. 0.5 points - What are two pieces of positive feedback you gave?
+1. 0.5 points - What are two pieces of negative feedback you gave?
 
 # Resources
 [Find some critique articles or videos]()
