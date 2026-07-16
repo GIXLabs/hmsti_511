@@ -7,6 +7,13 @@ For example, Extruding that sketch creates shapes like prisms or cylinders, Revo
 
 Throughout this assignment, you may need to Google how to do certain operations in Fusion or play around with different buttons within Fusion to see how they work.
 
+# Learning Objectives
+By the end of this guided activity you will be able to:
+- Describe the UI elements of Fusion and when they will be useful.
+- Design basic 2D shapes in CAD.
+- Apply dimensions and constraints in a 2D Sketch environment.
+
+# Quiz Format
 1. Layout of Fusion
     1. Open Fusion and start a new project.
     1. There are three major parts of the Fusion interface you'll need to be familiar with:
@@ -52,12 +59,12 @@ Throughout this assignment, you may need to Google how to do certain operations 
         
         ![Image of constraints and definitions](assets/constraints.svg)
 
-    1. Quiz on constraints
+    1. 1 points: Quiz on constraints
         Please match the following with their descriptions. Consider using Fusion's tool tips (hover over the icon for a long time) to help you with this quiz.
 
         ![Quiz on constraints](assets/constraint_quiz.svg)
 
-1. Apply constraints to make the four lines into a rectangle with one corner coincident with the origin.
+1. 2 points: Apply constraints to make the four lines into a rectangle with one corner coincident with the origin.
 
     1. Constraints are applied by first selecting the constraint you want from the ribbon, then select the objects you wish to apply that constraint to.
 
@@ -74,7 +81,7 @@ Throughout this assignment, you may need to Google how to do certain operations 
         1. Dimensioning a single piece of geometry, such as the length of a line.
         1. Dimensioning between 2 components, like the space between two lines.
 
-1. Challenge: Replicate this shape using lines, arcs, constraints, and the Dimension tool (dimensions are in millimeters). Add your name.
+1. 2 points: Challenge: Replicate this shape using lines, arcs, constraints, and the Dimension tool (dimensions are in millimeters). Add your name.
 
     ![Image of shape](assets/dimension_quiz.svg)
 
