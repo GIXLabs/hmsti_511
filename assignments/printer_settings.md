@@ -11,6 +11,6 @@ After this assignment you will be able to:
 - Pick a setting you think is important, but not one you think anyone else will pick.
 - Read the page on the Bambu wiki (hover over the setting in Bambu Studio, then follow the link that pops up).
 
-1. Which setting did you choose to explore?
-1. In your words, what does that setting do?
-1. Why do you think it is important?
+1. 0.5 points: Which setting did you choose to explore?
+1. 0.5 points: In your words, what does that setting do?
+1. 1 point: Why do you think it is important?
