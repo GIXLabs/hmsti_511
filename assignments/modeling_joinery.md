@@ -10,6 +10,7 @@ You are tasked with modeling the following basic lasercut joints using Fusion:
 # Learning Objectives
 By the end of this activity you will be able to:
 - Design several lasercut joints.
+- Pick an appropriate joint for the stage of prototyping you are at.
 
 # Constraints
 - Your joints must be modeled in place, with no move commands in your timeline. (-.1 points per move command)
