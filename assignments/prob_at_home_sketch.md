@@ -18,5 +18,5 @@ One of the best ways to create products that people love is to create a product 
 # Rubric
 | Points | Requirement |
 | --- | --- |
-| 1 | List of 4 probems you could solve |
+| 2 | List of 4 probems you could solve |
 | 3 | Sketches of 3 different solutions for one problem |
