@@ -6,7 +6,8 @@ Giving feedback and receiving feedback are critical skills in design and prototy
 - Receive critical feedback without defensiveness
 
 # Quiz Format
-1. What's one piece of positive feedback that you gave and to whom? Please include their name.
-1. What's one piece of negative feedback that you gave and to whom? Please include their name.
-1. What's one piece of positive feedback that you received?
-1. What's one piece of negative feedback that you received?
+Answer the following questions in the form based on your mouse documentation:
+1. 0.5 points - What is one piece of positive feedback you received and to whom?
+1. 0.5 points - What is one piece of negative feedback you received and to whom?
+1. 0.5 points - What is one piece of positive feedback you gave and to whom?
+1. 0.5 points - What is one piece of negative feedback you gave and to whom?
