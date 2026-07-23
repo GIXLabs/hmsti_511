@@ -15,13 +15,13 @@ After this assignment you will be able to:
 - Ideally, after answering the students would see a timelapse of the actual print.
 
 ## Will it print
-1. Small rectangular box
-1. Rectangular box spanning the entire bed.
-1. Small rectangular box with round overs
-1. Small rectangular box with chamfers
-1. Sphere
-1. Tall thin rectangle
-1. Two parts with one not touching the bed
-1. Big unsupported overhang (L shape)
-1. L shape flat on bed
-1. Bridge
+1. 0.2 points: Small rectangular box
+1. 0.2 points: Rectangular box spanning the entire bed.
+1. 0.2 points: Small rectangular box with round overs
+1. 0.2 points: Small rectangular box with chamfers
+1. 0.2 points: Sphere
+1. 0.2 points: Tall thin rectangle
+1. 0.2 points: Two parts with one not touching the bed
+1. 0.2 points: Big unsupported overhang (L shape)
+1. 0.2 points: L shape flat on bed
+1. 0.2 points: Bridge
