@@ -16,28 +16,41 @@ After this assignment you will be able to:
 
 ## Will it print
 1. 0.2 points: Small cube
+
 ![Cube with sharp edges measuring 2.5 inches on each side](assets/will_it_print/rect_prism.svg)
 
 1. 0.2 points: Rectangular prism spanning the entire bed.
+
 ![Rectangular prism spanning the entire printer bed](assets/will_it_print/big_rect.svg)
 
 1. 0.2 points: Small cube with round overs
+
 ![Cube with roundovers](assets/will_it_print/roundover.svg)
 
 1. 0.2 points: Small cube with chamfers
+
 ![Cube with chamfers](assets/will_it_print/chamfer.svg)
 
 1. 0.2 points: Sphere
+
 ![Sphere](assets/will_it_print/sphere.svg)
 
+1. 0.2 points: L shape flat on bed
+
+![L shape flat on the bed](assets/will_it_print/l.svg)
+
 1. 0.2 points: Tall thin rectanglular prism
+
 ![Tall and thin rectangular prism](assets/will_it_print/tall_thin.svg)
 
 1. 0.2 points: Two parts with one not touching the bed
+
 ![Two parts, one not touching the bed](assets/will_it_print/two_parts.svg)
 
 1. 0.2 points: Big unsupported overhang (L shape)
+
 ![Unsupported overhang](assets/will_it_print/overhang.svg)
 
-1. 0.2 points: L shape flat on bed
 1. 0.2 points: Bridge
+
+![Bridge](assets/will_it_print/bridge.svg)
