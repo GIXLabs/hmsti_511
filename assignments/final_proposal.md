@@ -16,7 +16,7 @@ By the end of this assignment you will be able to:
 - You must describe your ideas well enough that someone else can understand them.
     - Ask a friend to tell you what they think you mean.
 
-# Deliverables (Quiz format)
+# Deliverables
 1. Please describe the problem you are going to attempt to solve.
 1. Import your sketches for your first solution and add any text you think would be helpful in understanding your solution. What is the biggest source of uncertainty in this solution?
 1. Import your sketches for your second solution and add any text you think would be helpful in understanding your solution. What is the biggest source of uncertainty in this solution?
