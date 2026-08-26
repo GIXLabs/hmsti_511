@@ -28,6 +28,6 @@ None at the moment
 # Rubric
 | Points | Requirement |
 | --- | --- |
-| 1 | Fixed joint |
-| 1 | Slot joint |
-| 1 | Revolute joint |
+| 2/3 | Fixed joint |
+| 2/3 | Slot joint |
+| 2/3 | Revolute joint |
