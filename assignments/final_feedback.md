@@ -19,6 +19,7 @@ Answer the following questions in the form based on your Final Project Presentat
 | 0.5 | Negative received |
 | 0.5 | Positive given |
 | 0.5 | Negative given |
+| 2 | List of prices other students were willing to pay |
 
 # Resources
 [Find some critique articles or videos]()
