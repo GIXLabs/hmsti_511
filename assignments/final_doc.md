@@ -19,7 +19,7 @@ By the end of this activty, you will be able to:
 | Points | Requirement |
 | --- | --- |
 | 1 | Original CAD files |
-| 1 | Images of final prototype |
-| 1 | Color, material, and surface finish for each part |
+| 2 | Images of final prototype |
+| 2 | Color, material, and surface finish for each part |
 
 # FAQs
