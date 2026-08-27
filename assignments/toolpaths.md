@@ -51,6 +51,7 @@ This needs to match your machine. For our purposes, the long axis should be X an
     1. Check the Multiple Depths option and set the Maximum Roughing Stepdown to 0.125" just like last time.
     1. Click OK.
 1. Simulate
-    1. Right click on the setup in the Browser and select Simulate. Click on the Statistics tab in the Simulate dialog box. How long does it say it's going to take? Over time you will develop intuition on how long a cut should take and this statistic will help you determine whether you've made a mistake.
+    1. 1 Point: Right click on the setup in the Browser and select Simulate. Click on the Statistics tab in the Simulate dialog box. How long does it say it's going to take? Over time you will develop intuition on how long a cut should take and this statistic will help you determine whether you've made a mistake.
         ![Image showing the Simulate option in the Browser](assets/toolpaths/simulate_browser.svg)
-    1. Run the simulation by clicking the big play button at the bottom of the screen. Once the simulation has run, do the pockets have right angled corners? Why or why not? You may need to enable "Stock" on the Display tab so you can see what part of the stock remains after cutting. This is also somewhere that mistakes can show up as red bars.
+    1. 1 point: Run the simulation by clicking the big play button at the bottom of the screen. Once the simulation has run, do the pockets have right angled corners? Why or why not? You may need to enable "Stock" on the Display tab so you can see what part of the stock remains after cutting. This is also somewhere that mistakes can show up as red bars.
+    1. 3 points: Upload a screenshot of your simulation, showing how it looks at the end, with the Statistics tab open.
