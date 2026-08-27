@@ -27,6 +27,6 @@ Single pdf (<10 MB) including:
 | --- | --- |
 | 1 | Prototype 1 |
 | 1 | Prototype 2 |
-| 1 | Progress since last time |
+| 3 | Progress since last time |
 
 # FAQs

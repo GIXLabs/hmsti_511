@@ -26,8 +26,8 @@ By the end of this project you will be able to:
 | Points | Requirement |
 | --- | --- |
 | 1 | Description of concept |
-| 2 | High fidelity final product |
 | 2.5 | 10+ Hand sketches |
 | 1 | Hand crafted prototypes |
-| 1 | Functionality prototypes |
-| 1.5 | Execution Quality |
+| 1.5 | Functionality prototypes |
+| 2 | High fidelity final product |
+| 2 | Execution Quality |
