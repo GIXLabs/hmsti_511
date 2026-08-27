@@ -20,3 +20,12 @@ In a single pdf:
 - Calculation of per unit cost with labor.
 - Calculation of 50% margins (don't just multiply by 1.5).
 - Paragraph describing what similar objects sell for and then reasoning about whether you will be able to sell your light profitably.
+
+# Rubric 
+| Points | Requirement |
+| --- | --- |
+| 1 | Screenshot of quote from manufacturer |
+| 1 | Unit cost without labor |
+| 0.5 | Unit cost with labor |
+| 0.5 | Unit price assuming 50% margins |
+| 2 | Quality of reasoning in paragraph describing whether you could sell your product at that price point |
