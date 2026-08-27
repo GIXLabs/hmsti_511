@@ -27,8 +27,8 @@ Single pdf (<10 MB) including:
 # Rubric
 | Points | Requirement |
 | --- | --- |
-| 1 | Sketch 1 |
-| 1 | Sketch 2 |
-| 1 | Sketch 3 |
+| 2/3 | Sketch 1 |
+| 2/3 | Sketch 2 |
+| 2/3 | Sketch 3 |
 
 # FAQs
