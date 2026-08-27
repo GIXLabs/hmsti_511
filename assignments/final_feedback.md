@@ -15,10 +15,10 @@ Answer the following questions in the form based on your Final Project Presentat
 # Rubric
 | Points | Requirement |
 | --- | --- |
-| 1 | Positive received |
-| 1 | Negative received |
-| 1 | Positive given |
-| 1 | Negative given |
+| 0.5 | Positive received |
+| 0.5 | Negative received |
+| 0.5 | Positive given |
+| 0.5 | Negative given |
 
 # Resources
 [Find some critique articles or videos]()
