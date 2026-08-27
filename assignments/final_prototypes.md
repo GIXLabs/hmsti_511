@@ -27,8 +27,8 @@ Single pdf (<10 MB) including:
 # Rubric
 | Points | Requirement |
 | --- | --- |
-| 2/3 | Sketch 1 |
-| 2/3 | Sketch 2 |
-| 2/3 | Sketch 3 |
+| 1 | Prototype 1 |
+| 1 | Prototype 2 |
+| 3 | Prototype Documentation |
 
 # FAQs
