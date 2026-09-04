@@ -1,6 +1,6 @@
 # Syllabus
 ## Course Overview
-The course develops core skills and abilities in fabricating and prototyping interactive systems for technology innovation. You will learn the how and why of physical prototyping and how these principles apply outside the realm of physical fabrication. 
+This course develops core skills in design, fabrication and prototyping of systems for technology innovation. You will learn the hows and whys of physical prototyping, as well as how these principles can be applied beyond the context of physical fabrication.
 
 You will develop prototypes using additive and subtractive manufacturing processes, and a variety of media including paper/wood, architectural foam, vacuum-formed plastic, 3D printing, laser cutting, and more. Throughout the course, you will engage with these materials and techniques, employing appropriate methods for different stages and iterations of the user-centered design process.
 
