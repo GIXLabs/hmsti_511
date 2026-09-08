@@ -8,9 +8,9 @@ Much of the iterative processes you will learn rely on getting feedback from sta
 
 ## Course Structure
 This course is structured into weekly modules consisting of:
-- One synchronous remote session (90 mins) via Zoom/Teams
-- One Saturday in-person session (180 mins, every other weekend)
-- Asynchronous activities (guided assignments, lectures, and quizzes)
+- One synchronous remote session via Zoom/Teams on Tuesdays, from 7:00 PM to 8:50 PM [PST]
+- One Saturday in-person session, every alternate weekend at GIX, from 9:00 AM to 12:20 PM [PST]
+- Asynchronous activities (assignments, ~~lectures~~, and quizzes)
 
 ## Course Learning Objectives
 By the end of this course, you will:
@@ -29,22 +29,24 @@ Your grade in this class is broken down into the following weighted categories:
 - Weekly Assignments: 40%
 - Final Project and Portfolio: 45%
 - Engagement/In-class activities: 15%
+- For absences, please email the instructor in advance.
 
 ## Faculty Introduction/Information
-- Instructor: Kevin Arne
-- Email: karne@uw.edu
-- Office: Prototyping Lab Shop Office
-- Office Hours: TBD
+- Instructor: Mithun Goutham
+- Email: mithun9@uw.edu
+- Office: 2nd floor
+- Office Hours: 
 
 ## Communication
-All official communication from the teaching team (e.g., course meetings, grades, due dates, etc.) is via Announcements on Canvas. Please make sure your Canvas Announcements/notifications settings are correct.
-For absences and grading questions, please email the instructors and all reader/graders. This ensures we are all aware and can reply to you as promptly as possible.
+Assignments and quizzes being published, their due dates, grades, etc. will be shared via notifications from Canvas. Please ensure that your Canvas settings push these notifications to you since announcements will not be made for any. 
+Any adhoc information related to changes in assignments, corrections in lecture information etc. will be shared via Canvas announcements. 
+Please make sure your Canvas Announcements/notifications settings are correct.
+For grading question, please email the instructor promptly.
 
 ## Support
-- Your Instructor (karne@uw.edu): Questions regarding course content, assignments, grading.
-- Your RG (TBD): For grading explanations.
-- H-MSTI Help (gixhelp@uw.edu): Technical issues (CC: Instructor and TA)
-- Program Director (karafich@uw.edu): Issues and concerns about the H-MSTI program
+- Questions regarding course content, assignments, grading: email your Instructor (mithun9e@uw.edu): .
+- Technical issues: email H-MSTI Help (gixhelp@uw.edu), cc-ing your instructor
+- Issues and concerns about the H-MSTI program: email the program director (karafich@uw.edu): 
 
 ## Start Here
 Before class starts, please:
